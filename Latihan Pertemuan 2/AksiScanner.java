@@ -7,7 +7,7 @@ package Pertemuan3;
 import java.util.Scanner;
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class AksiScanner {
     public static void main(String[] args) {

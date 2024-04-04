@@ -7,7 +7,7 @@ package Pertemuan3;
 import java.io.*;
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class LatBuffered {
     public static void main(String[] args) throws Exception {

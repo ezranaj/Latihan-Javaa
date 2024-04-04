@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 class LatScan4 {
     public static void main(String[]args) {

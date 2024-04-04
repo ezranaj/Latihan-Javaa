@@ -6,7 +6,7 @@ package Pertemuan3;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class IfElseAksi {
     public static void main(String[] args) {
