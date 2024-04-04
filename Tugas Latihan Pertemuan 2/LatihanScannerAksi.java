@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class LatihanScannerAksi {
     public static void main(String[] args) {

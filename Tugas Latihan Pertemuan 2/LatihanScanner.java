@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class LatihanScanner {
     public String nim, nama;
