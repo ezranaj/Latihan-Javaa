@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author ezranaj
+ * @author ezrana
  */
 public class LatihanSwitchCase {
     
