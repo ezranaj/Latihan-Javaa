@@ -19,7 +19,7 @@ public class LatihanSwitchCase {
     Scanner input = new Scanner(System.in);
     
     public void setInputData(){
-        System.out.print("Masukkan Nama Karyawan \t: ");
+        System.out.print("Masukkan Nama Karyawan \t\t: ");
         nama = input.nextLine();
         System.out.print("Masukkan Golongan Karyawan \t: ");
         jabatan = input.nextInt();
@@ -33,10 +33,10 @@ public class LatihanSwitchCase {
             default -> {
                 tunjangan_jabatan = (0); 
                 System.out.println("Pilihan tidak tersedia");
+                System.exit(0);
                 break;
             }
         }
-        System.exit(0);
         return tunjangan_jabatan;
     }
     
@@ -62,10 +62,10 @@ public class LatihanSwitchCase {
             default ->  {
                tunjangan_pend = (0); 
                System.out.println("Pilihan tidak tersedia"); 
+               System.exit(0);
                break;
             } 
         }
-        System.exit(0);
         return tunjangan_pend;
     }
     

@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author ezranaj
+ * @author ezran
  */
 public class LatihanSwitchCaseAksi {
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class LatihanSwitchCaseAksi {
         switchcase.getLembur();
         switchcase.getTotal();
         
-        System.out.println("\tHasl Akhir");
+        System.out.println("\n\tHasil Akhir");
         System.out.println("======================================");
         System.out.println("Nama Karyawan \t\t: " + switchcase.nama);
         System.out.println("Honor Tetap \t\t: " + switchcase.honor);
