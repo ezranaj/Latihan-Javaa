@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class OptPenambahPenguran {
     public static void main(String[] args) {

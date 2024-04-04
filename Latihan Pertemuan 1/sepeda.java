@@ -6,7 +6,7 @@ package com.mycompany.java;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 class sepeda {
     int kecepatan = 0;

@@ -6,7 +6,7 @@ package com.mycompany.java;
 
 /**
  *
- * @author ezran
+ * @author ezranaj
  */
 public class OptLogika {
     public static void main(String[] args) {
